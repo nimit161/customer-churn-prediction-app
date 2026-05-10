@@ -104,8 +104,3 @@ customer-churn-prediction-app/
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
 └── README.md
 
-#Screenshots
-
-<img width="643" height="599" alt="image" src="https://github.com/user-attachments/assets/381e2ede-c029-46e8-b26a-d511a00fe27a" />
-<img width="628" height="606" alt="image" src="https://github.com/user-attachments/assets/2c46d545-96c8-4fa7-8b4e-68195b2d2a0d" />
-
